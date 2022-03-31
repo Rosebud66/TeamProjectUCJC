@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "name": "Ejercicio 1", 
+            "asignatura": "Matemáticas",
+            "dificultad": "Fácil"
+        },
+        {
+            "name": "Ejercicio 2", 
+            "asignatura": "Matemáticas",
+            "dificultad": "Dificil"
+        },
+        {
+            "name": "Ejercicio 3", 
+            "asignatura": "Matemáticas",
+            "dificultad": "Medio"
+        },
+        {
+            "name": "Ejercicio 4", 
+            "asignatura": "Matemáticas",
+            "dificultad": "Dificil"
+        }        
+    ]
+}

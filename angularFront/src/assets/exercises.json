@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "nombre": "Ejercicio 1",
+            "enunciado": "Calcula el área de un cuadrado de 2m de lado A y 5 de lado B",
+            "respuesta": 10
+            
+        },
+        {
+            "nombre": "Ejercicio 2",
+            "enunciado": "Calcula el lado A y lado B",
+            "respuesta": 8
+        },
+        {
+            "nombre": "Ejercicio 3",
+            "enunciado": "Calcula el perímetro de un cuadrado de lado A 3 y lado B 4",
+            "respuesta": 90
+        }
+    ]
+}

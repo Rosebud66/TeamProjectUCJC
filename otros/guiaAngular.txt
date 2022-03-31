@@ -1,0 +1,9 @@
+
+
+
+Crear aplicación Angular - ng new TeamProject 
+Would you like to add Angular routing? - y
+Which stylesheet format would you like to use?
+SCSS
+
+para iniciar servidor: ng serve
